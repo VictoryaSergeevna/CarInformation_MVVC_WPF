@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfApp6.AddCarWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp6"
+        mc:Ignorable="d"
+        Title="AddCarWindow" Height="300" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel  Grid.ColumnSpan="2" DataContext="{Binding Car}">
+            <StackPanel>
+                <TextBlock Text="Manufacturer"></TextBlock>
+                <TextBox Text="{Binding Manufacturer, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+                <TextBlock Text="Model"></TextBlock>
+                <TextBox Text="{Binding Model, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+                <TextBlock Text="Year"></TextBlock>
+                <TextBox Text="{Binding Year, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            </StackPanel>
+           
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <Button Margin=" 10"  Content="Ok" Command="{Binding OkCommand}"></Button>
+            <Button Margin=" 10"  Content="Cancel" Command="{Binding CancelCommand}"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

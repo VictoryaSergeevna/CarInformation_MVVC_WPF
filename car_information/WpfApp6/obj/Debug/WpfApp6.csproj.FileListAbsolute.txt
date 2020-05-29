@@ -1,0 +1,16 @@
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csprojResolveAssemblyReference.cache
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp6\WpfApp6\obj\Debug\App.g.cs
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp6\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.cache
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp6\WpfApp6\bin\Debug\WpfApp6.exe.config
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp6\WpfApp6\bin\Debug\WpfApp6.exe
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp6\WpfApp6\bin\Debug\WpfApp6.pdb
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp6\WpfApp6\obj\Debug\MainWindow.g.cs
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp6\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.lref
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp6\WpfApp6\obj\Debug\MainWindow.baml
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp6\WpfApp6\obj\Debug\WpfApp6.g.resources
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp6\WpfApp6\obj\Debug\WpfApp6.Properties.Resources.resources
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csproj.GenerateResource.Cache
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp6\WpfApp6\obj\Debug\WpfApp6.exe
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp6\WpfApp6\obj\Debug\WpfApp6.pdb
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp6\WpfApp6\obj\Debug\AddCarWindow.g.cs
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp6\WpfApp6\obj\Debug\AddCarWindow.baml
